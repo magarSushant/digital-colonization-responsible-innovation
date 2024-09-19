@@ -39,3 +39,8 @@ Breaking the chains of digital colonialism also requires a shift in the way we t
 
 ## Conclusion
 **Digital colonialism is a modern manifestation of historical power imbalances**, but through responsible digital practices, we can begin to reverse this trend. By prioritizing **ethical innovation** and ensuring equitable access to digital resources, the chains of digital control can be broken. The goal of this project is not only to highlight the problem but also to offer **actionable solutions** that policymakers and technologists can implement to build a more inclusive and fair digital future.
+
+## View Poster
+For a overview of this project, you can view the full poster presentation here:
+
+[Digital Colonialism: Breaking Chains Through Responsible Innovation - Poster](https://github.com/magarSushant/digital-colonization-responsible-innovation/blob/main/Poster%20presentation-Digital%20Colonialism.pdf)
